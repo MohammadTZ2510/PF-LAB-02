@@ -1,0 +1,5 @@
+START
+  Input three variables: A, B, C
+  SUM=A-(-B)-(-C)
+  Output "Sum =", Sum
+END
