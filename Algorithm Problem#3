@@ -1,0 +1,15 @@
+1. Start
+2. Input two numbers: A and B
+3. Input an operator (either +, -, *, /, %)
+4. Based on the operator:
+    If operator is +, calculate and print A+B
+    If operator is -, calculate and print A−B
+    If operator is *, calculate and print A∗B
+    If operator is /, check if B≠0:
+        If true, calculate and print A/B
+        Else, print "Division by zero is not allowed"
+    If operator is %, check if B≠0:
+        If true, calculate and print A%B
+        Else, print "Remainder by zero is not allowed"
+
+5. End
