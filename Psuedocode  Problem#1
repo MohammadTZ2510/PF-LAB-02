@@ -1,0 +1,9 @@
+START
+  Input three variables: A, B, C
+  IF A>B && A>C THEN
+    Output "A is the largest number"
+  ELSE IF B>A && B>C THEN
+    Output "B is the largest number"
+  ELSE
+    Output "C is the largest number"
+END
