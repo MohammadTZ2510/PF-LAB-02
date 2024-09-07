@@ -1,0 +1,16 @@
+1. Start
+2. Input a number between 1 and 12
+3. If the number is 1, print "January"
+4. If the number is 2, print "February"
+5. If the number is 3, print "March"
+6. If the number is 4, print "April"
+7. If the number is 5, print "May"
+8. If the number is 6, print "June"
+9. If the number is 7, print "July"
+10. If the number is 8, print "August"
+11. If the number is 9, print "September"
+12. If the number is 10, print "October"
+13. If the number is 11, print "November"
+14. If the number is 12, print "December"
+15. Else, print "Invalid integer, please enter a number between 1 and 12"
+16. End
