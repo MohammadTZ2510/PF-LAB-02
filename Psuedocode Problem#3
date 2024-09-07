@@ -1,0 +1,15 @@
+START
+  Input three variables: A, B, Operator
+  IF Operator is '+'
+    Result = A
+    FOR i FROM 1 TO B
+      Increment Result by 1
+    END FOR
+  ELSE IF Operator is '-'
+    Result = A
+    FOR i FROM 1 TO B
+      Decrement Result by 1
+    END FOR
+  END IF
+  Output "Result = ", Result
+END
