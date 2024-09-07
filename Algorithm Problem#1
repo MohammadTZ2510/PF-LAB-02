@@ -1,0 +1,9 @@
+1. Start
+2. Input two numbers: NN and nn
+3. Check if nmod  N==0nmodN==0 (i.e., if the remainder is 0):
+    If true, NN is a divisor of nn
+    If false, NN is not a divisor of nn
+4. If NN is a divisor, check:
+    If Nmod  2==0Nmod2==0, print "Nth number is even"
+    Else, print "Nth number is odd"
+5. End
